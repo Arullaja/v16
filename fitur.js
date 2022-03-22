@@ -1475,7 +1475,7 @@ case 'tqtq':
 if (!isRegist) return freply(mess.daftar)
 if (isBanned) return freply(mess.banned)
 freply(`• *BIG THANKS TO*
-• RAMDANI OFFICIAL (ME)
+• RAMDANI OFFICIAL
 • ARUL (MY GURU)
 • MHANKBARBAR (MASTAH)
 • APRILIA
@@ -1521,69 +1521,15 @@ break
 //JASA
 //JASA RUN HEROKU
 case 'jasarunheroku':
-freply(`*SILAHLAN HUBUNGI*\nhttp://wa.me/6289512545999?text=bang+mau+order+jasa+run+heroku:v`)
+freply(`*SILAHLAN HUBUNGI*\nhttp://wa.me/6288224465258?text=bang+mau+order+jasa+run+heroku:v`)
 break
 //JASA UP HEROKU
 case 'jasaupgithub':
-freply(`*SILAHLAN HUBUNGI*\nhttp://wa.me/6289512545999?text=bang+mau+order+jasa+up+github:v`)
+freply(`*SILAHLAN HUBUNGI*\nhttp://wa.me/6288224465258?text=bang+mau+order+jasa+up+github:v`)
 break
 //STORE MENU//
 //TOP UP GAME
-case 'topupgame2':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-Ramdani.sendMessage(from, topupgame(prefix), text)
-break
-case 'topupfreefire':
-case 'topupff':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-Ramdani.sendMessage(from, topupfreefire(prefix, nomorowner), text)
-break
-case 'topupmobilelegends':
-case 'topupml':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-Ramdani.sendMessage(from, topupmobilelegends(prefix, nomorowner), text)
-break
-case 'topuppubg':
-case 'topuppapji':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-Ramdani.sendMessage(from, topuppubg(prefix, nomorowner), text)
-break
-case 'topuppointblank':
-case 'topuppb':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-Ramdani.sendMessage(from, topuppointblank(prefix, nomorowner), text)
-break
-//TOP UP SALDO
-case 'topupsaldo':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-Ramdani.sendMessage(from, topupsaldo(prefix), text)
-break
-case 'topupgopay':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-Ramdani.sendMessage(from, topupgopay(prefix, nomorowner), text)
-break
-case 'topupdana':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-Ramdani.sendMessage(from, topupdana(prefix, nomorowner), text)
-break
-case 'topupovo':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-Ramdani.sendMessage(from, topupovo(prefix, nomorowner), text)
-break
-case 'topuppulsa':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-Ramdani.sendMessage(from, topuppulsa(prefix, nomorowner), text)
-break
+
 //REPLY
 case 'bebantot':
 freply(`_awoakwok_`)
