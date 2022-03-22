@@ -938,91 +938,6 @@ ${gayamenu} ${prefix}panda1
 ${gayamenu} ${prefix}bird
 ${gayamenu} ${prefix}koala
 
-*⌜ Hentai Menu ⌟* 
-${gayamenu} ${prefix}hentai
-${gayamenu} ${prefix}randomhentai
-${gayamenu} ${prefix}art
-${gayamenu} ${prefix}bts
-${gayamenu} ${prefix}exo
-${gayamenu} ${prefix}elf
-${gayamenu} ${prefix}loli
-${gayamenu} ${prefix}neko
-${gayamenu} ${prefix}waifu
-${gayamenu} ${prefix}shota
-${gayamenu} ${prefix}husbu
-${gayamenu} ${prefix}sagiri
-${gayamenu} ${prefix}shinobu
-${gayamenu} ${prefix}megumin
-${gayamenu} ${prefix}wallnime
-${gayamenu} ${prefix}chiisaihentai
-${gayamenu} ${prefix}trap
-${gayamenu} ${prefix}blowjob
-${gayamenu} ${prefix}yaoi
-${gayamenu} ${prefix}ecchi
-${gayamenu} ${prefix}ahegao
-${gayamenu} ${prefix}hololewd
-${gayamenu} ${prefix}sideoppai
-${gayamenu} ${prefix}animefeets
-${gayamenu} ${prefix}animebooty
-${gayamenu} ${prefix}animethighss
-${gayamenu} ${prefix}hentaiparadise
-${gayamenu} ${prefix}animearmpits
-${gayamenu} ${prefix}hentaifemdom
-${gayamenu} ${prefix}lewdanimegirls
-${gayamenu} ${prefix}biganimetiddies
-${gayamenu} ${prefix}animebellybutton
-${gayamenu} ${prefix}hentai4everyone
-${gayamenu} ${prefix}bj
-${gayamenu} ${prefix}ero
-${gayamenu} ${prefix}cum
-${gayamenu} ${prefix}feet
-${gayamenu} ${prefix}yuri
-${gayamenu} ${prefix}trap
-${gayamenu} ${prefix}lewd
-${gayamenu} ${prefix}feed
-${gayamenu} ${prefix}eron
-${gayamenu} ${prefix}solo
-${gayamenu} ${prefix}gasm
-${gayamenu} ${prefix}poke
-${gayamenu} ${prefix}anal
-${gayamenu} ${prefix}holo
-${gayamenu} ${prefix}tits
-${gayamenu} ${prefix}kuni
-${gayamenu} ${prefix}kiss
-${gayamenu} ${prefix}erok
-${gayamenu} ${prefix}smug
-${gayamenu} ${prefix}baka
-${gayamenu} ${prefix}solog
-${gayamenu} ${prefix}feetg
-${gayamenu} ${prefix}lewdk
-${gayamenu} ${prefix}waifu
-${gayamenu} ${prefix}pussy
-${gayamenu} ${prefix}femdom
-${gayamenu} ${prefix}cuddle
-${gayamenu} ${prefix}hentai
-${gayamenu} ${prefix}eroyuri
-${gayamenu} ${prefix}cum_jpg
-${gayamenu} ${prefix}blowjob
-${gayamenu} ${prefix}erofeet
-${gayamenu} ${prefix}holoero
-${gayamenu} ${prefix}classic
-${gayamenu} ${prefix}erokemo
-${gayamenu} ${prefix}fox_girl
-${gayamenu} ${prefix}futanari
-${gayamenu} ${prefix}lewdkemo
-${gayamenu} ${prefix}wallpaper
-${gayamenu} ${prefix}pussy_jpg
-${gayamenu} ${prefix}kemonomimi
-${gayamenu} ${prefix}nsfw_avatar
-${gayamenu} ${prefix}ngif
-${gayamenu} ${prefix}nsfw_neko_gif
-${gayamenu} ${prefix}random_hentai_gif
-
-*⌜ 18+ Menu ⌟* 
-${gayamenu} ${prefix}bokep <text>
-${gayamenu} ${prefix}xnxx <text>
-${gayamenu} ${prefix}4everproxy <search>
-${gayamenu} ${prefix}vpn
 
 *⌜ Islam Menu ⌟* 
 ${gayamenu} ${prefix}listsurah
@@ -1848,98 +1763,7 @@ ${gayamenu} ${prefix}bird
 ${gayamenu} ${prefix}koala`)
 break
 
-case 'hentaimenu':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-freply(`*⌜ Hentai Menu ⌟* 
-${gayamenu} ${prefix}hentai
-${gayamenu} ${prefix}randomhentai
-${gayamenu} ${prefix}art
-${gayamenu} ${prefix}bts
-${gayamenu} ${prefix}exo
-${gayamenu} ${prefix}elf
-${gayamenu} ${prefix}loli
-${gayamenu} ${prefix}neko
-${gayamenu} ${prefix}waifu
-${gayamenu} ${prefix}shota
-${gayamenu} ${prefix}husbu
-${gayamenu} ${prefix}sagiri
-${gayamenu} ${prefix}shinobu
-${gayamenu} ${prefix}megumin
-${gayamenu} ${prefix}wallnime
-${gayamenu} ${prefix}chiisaihentai
-${gayamenu} ${prefix}trap
-${gayamenu} ${prefix}blowjob
-${gayamenu} ${prefix}yaoi
-${gayamenu} ${prefix}ecchi
-${gayamenu} ${prefix}ahegao
-${gayamenu} ${prefix}hololewd
-${gayamenu} ${prefix}sideoppai
-${gayamenu} ${prefix}animefeets
-${gayamenu} ${prefix}animebooty
-${gayamenu} ${prefix}animethighss
-${gayamenu} ${prefix}hentaiparadise
-${gayamenu} ${prefix}animearmpits
-${gayamenu} ${prefix}hentaifemdom
-${gayamenu} ${prefix}lewdanimegirls
-${gayamenu} ${prefix}biganimetiddies
-${gayamenu} ${prefix}animebellybutton
-${gayamenu} ${prefix}hentai4everyone
-${gayamenu} ${prefix}bj
-${gayamenu} ${prefix}ero
-${gayamenu} ${prefix}cum
-${gayamenu} ${prefix}feet
-${gayamenu} ${prefix}yuri
-${gayamenu} ${prefix}trap
-${gayamenu} ${prefix}lewd
-${gayamenu} ${prefix}feed
-${gayamenu} ${prefix}eron
-${gayamenu} ${prefix}solo
-${gayamenu} ${prefix}gasm
-${gayamenu} ${prefix}poke
-${gayamenu} ${prefix}anal
-${gayamenu} ${prefix}holo
-${gayamenu} ${prefix}tits
-${gayamenu} ${prefix}kuni
-${gayamenu} ${prefix}kiss
-${gayamenu} ${prefix}erok
-${gayamenu} ${prefix}smug
-${gayamenu} ${prefix}baka
-${gayamenu} ${prefix}solog
-${gayamenu} ${prefix}feetg
-${gayamenu} ${prefix}lewdk
-${gayamenu} ${prefix}waifu
-${gayamenu} ${prefix}pussy
-${gayamenu} ${prefix}femdom
-${gayamenu} ${prefix}cuddle
-${gayamenu} ${prefix}eroyuri
-${gayamenu} ${prefix}cum_jpg
-${gayamenu} ${prefix}blowjob
-${gayamenu} ${prefix}erofeet
-${gayamenu} ${prefix}holoero
-${gayamenu} ${prefix}classic
-${gayamenu} ${prefix}erokemo
-${gayamenu} ${prefix}fox_girl
-${gayamenu} ${prefix}futanari
-${gayamenu} ${prefix}lewdkemo
-${gayamenu} ${prefix}wallpaper
-${gayamenu} ${prefix}pussy_jpg
-${gayamenu} ${prefix}kemonomimi
-${gayamenu} ${prefix}nsfw_avatar
-${gayamenu} ${prefix}ngif
-${gayamenu} ${prefix}nsfw_neko_gif
-${gayamenu} ${prefix}random_hentai_gif`)
-break
 
-case '18+menu':
-if (!isRegist) return freply(mess.daftar)
-if (isBanned) return freply(mess.banned)
-freply(`*⌜ 18+ Menu ⌟* 
-${gayamenu} ${prefix}bokep <text>
-${gayamenu} ${prefix}xnxx <text>
-${gayamenu} ${prefix}4everproxy <search>
-${gayamenu} ${prefix}vpn`)
-break
 
 case 'islammenu':
 if (!isRegist) return freply(mess.daftar)
@@ -2706,105 +2530,7 @@ case 'art':
                 Ramdani.sendMessage(from, gambar, image, { quoted: fdanz })
                 })
                 break
-//HENTAI MENU
-                case 'hentai':
-                case 'randomhentai':
-                if (!isRegist) return freply(mess.daftar)
-                if (!isDewasa) return freply(mess.dewasa)
-                if (isBanned) return freply(mess.banned)
-                freply(mess.wait)
-                if (!isPremium) return freply(mess.only.premium)
-                await getBuffer(`http://hadi-api.herokuapp.com/api/hentai`).then((gambar) => {
-                Ramdani.sendMessage(from, gambar, image, { quoted: fdanz })
-                })
-                break
-                case 'chiisaihentai':
-                case 'trap':
-                case 'blowjob':
-                case 'yaoi':
-                case 'ecchi':                
-                case 'ahegao':
-                case 'hololewd':
-                case 'sideoppai':
-                case 'animefeets':
-                case 'animebooty':
-                case 'animethighss':
-                case 'hentaiparadise':
-                case 'animearmpits':
-                case 'hentaifemdom':
-                case 'lewdanimegirls':
-                case 'biganimetiddies':
-                case 'animebellybutton':
-                case 'hentai4everyone':
-                if (!isRegist) return freply(mess.daftar)
-                if (isBanned) return freply(mess.banned)
-                freply(mess.wait)
-                if (!isPremium) return freply(mess.only.premium)
-                await getBuffer(`https://api.lolhuman.xyz/api/random/nsfw/${command}?apikey=${Lolhuman}`).then((gambar) => {
-                Ramdani.sendMessage(from, gambar, image, { quoted: fdanz })
-                })
-                break
-                case 'bj':
-                case 'ero':
-                case 'cum':
-                case 'feet':
-                case 'yuri':
-                case 'trap':
-                case 'lewd':
-                case 'feed':
-                case 'eron':
-                case 'solo':
-                case 'gasm':
-                case 'poke':
-                case 'anal':
-                case 'holo':
-                case 'tits':
-                case 'kuni':
-                case 'kiss':
-                case 'erok':
-                case 'smug':
-                case 'baka':
-                case 'solog':
-                case 'feetg':
-                case 'lewdk':
-                case 'waifu':
-                case 'pussy':
-                case 'femdom':
-                case 'cuddle':
-                case 'hentai':
-                case 'eroyuri':
-                case 'cum_jpg':
-                case 'blowjob':
-                case 'erofeet':
-                case 'holoero':
-                case 'classic':
-                case 'erokemo':
-                case 'fox_girl':
-                case 'futanari':
-                case 'lewdkemo':
-                case 'wallpaper':
-                case 'pussy_jpg':
-                case 'kemonomimi':
-                case 'nsfw_avatar':
-                if (!isRegist) return freply(mess.daftar)
-                if (isBanned) return freply(mess.banned)
-                freply(mess.wait)
-                if (!isPremium) return freply(mess.only.premium)
-                getBuffer(`https://api.lolhuman.xyz/api/random2/${command}?apikey=${Lolhuman}`).then((gambar) => {
-                Ramdani.sendMessage(from, gambar, image, { quoted: fdanz })
-                })
-                break
-//18+ MENU
-case 'bokep':
-case 'xnxx':
-case '4everproxy':
-case 'vpn':
-case 'bahasa':
-if (!isRegist) return freply(mess.daftar)
-if (!isDewasa) return freply(mess.dewasa)
-if (isBanned) return freply(mess.banned)
-freply(`*TOBAT TOLOL, BOKEP MULU PIKIRAN LU,*`)
-break
+
 //KODE MENU
 case 'kodebahasa':                  
 if (!isRegist) return freply(mess.daftar)
@@ -3906,7 +3632,7 @@ var intro = `ᴡᴇʟᴄᴏᴍᴇ
 ┌ > ᴜsɪᴀ : 
 ┌ > ɢᴇɴᴅᴇʀ : 
 ┌ > sᴛᴀᴛᴜs :
-ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴜʙsᴄʀɪʙᴇ ʏᴛ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ
+ᴅᴏɴᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴜʙsᴄʀɪʙᴇ ʏᴛ
 ${Yt}
 `
 Ramdani.sendMessage(from, intro, text, {quoted: ftrolMENU, contextInfo: {"forwardingScore":999,"isForwarded":true}, sendEphemeral: true })
